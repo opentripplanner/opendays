@@ -1,6 +1,6 @@
 theme = "black-and-light"
 relativeURLs = true
-baseURL = "/opendays/"
+baseURL = "/"
 title = "Leonard Ehrenfried"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
@@ -8,20 +8,6 @@ paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
-
-[menu]
-
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/opendays/"
-    weight = 1
-
-  [[menu.schedule]]
-    identifier = "schedule"
-    name = "Schedule"
-    url = "/opendays/schedule/"
-    weight = 1
 
 
 [taxonomies]

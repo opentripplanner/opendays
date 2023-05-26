@@ -27,6 +27,15 @@
     {{ range .AlternativeOutputFormats -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
     {{ end -}}
+
+    <style>
+      .entry-content p img {
+        max-width: 250px;
+        padding: 20px;
+        display: inline;
+        vertical-align: middle;
+      }
+    </style>
   </head>
 
   <body>

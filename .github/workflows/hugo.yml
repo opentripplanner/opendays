@@ -54,7 +54,9 @@ jobs:
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          hugo --gc
+          hugo \
+            --gc \
+            --baseURL "/opendays/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
