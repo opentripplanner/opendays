@@ -1,0 +1,31 @@
+theme = "black-and-light"
+relativeURLs = true
+baseURL = "/"
+title = "Leonard Ehrenfried"
+author = "Steve Francia"
+copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.schedule]]
+    identifier = "schedule"
+    name = "Schedule"
+    url = "/"
+    weight = 1
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
