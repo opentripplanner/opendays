@@ -36,6 +36,10 @@ We’ll also have a social event the evening of September 7. Join us for dinner,
 - Discussion: OTP’s eco system and associated projects (business)
 - Presentation: Performance improvements for large networks (technical)
 
+## Signup
+
+We will soon start collecting signups to be sure to check this page in the future!
+
 
 Thanks to our partners!
 
