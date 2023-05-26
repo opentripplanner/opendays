@@ -1,6 +1,6 @@
 theme = "black-and-light"
 relativeURLs = true
-baseURL = "/"
+baseURL = "/opendays/"
 title = "Leonard Ehrenfried"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
