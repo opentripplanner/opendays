@@ -14,13 +14,13 @@ enableInlineShortcodes = true
   [[menu.main]]
     identifier = "home"
     name = "Home"
-    url = "/"
+    url = "/opendays/"
     weight = 1
 
   [[menu.schedule]]
     identifier = "schedule"
     name = "Schedule"
-    url = "/"
+    url = "/opendays/schedule/"
     weight = 1
 
 
