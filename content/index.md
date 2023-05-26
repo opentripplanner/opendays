@@ -1,7 +1,7 @@
 +++
 title = "OpenTripPlanner Open Days 2023"
-description = "Hugo, the world's fastest framework for building websites"
-author = "Hugo Authors"
+description = "OpenTripPlanner conference in 2023"
+author = "Leonard Ehrenfried"
 +++
 
 This **September 7 and 8, 2023**, OpenTripPlanner (OTP) community members (developers, product owners, users, and any other interested party!) 
