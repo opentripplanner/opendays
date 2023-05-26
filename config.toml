@@ -10,6 +10,12 @@ enableInlineShortcodes = true
 
 [menu]
 
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
 [taxonomies]
 category = "categories"
 tag = "tags"
