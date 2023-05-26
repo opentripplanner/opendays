@@ -1,5 +1,4 @@
 theme = "black-and-light"
-relativeURLs = true
 baseURL = "/opendays/"
 title = "Leonard Ehrenfried"
 author = "Steve Francia"
@@ -9,6 +8,7 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 
+[menu]
 
 [taxonomies]
 category = "categories"
