@@ -1,5 +1,5 @@
 theme = "black-and-light"
-baseURL = "/opendays/"
+baseURL = "https://www.opentripplanner.org/opendays/"
 title = "OpenTripPlanner OpenDays 2023"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
