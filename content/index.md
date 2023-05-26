@@ -41,7 +41,7 @@ We’ll also have a social event the evening of September 7. Join us for dinner,
 We will soon start collecting signups to be sure to check this page in the future!
 
 
-Thanks to our partners!
+# Partners
 
 ![Entur logo](entur.png)
 ![HSL logo](hsl.png)
