@@ -8,6 +8,8 @@ This **September 7 and 8, 2023**, OpenTripPlanner (OTP) community members (devel
 from around the world will meet in Valencia, Spain. OTP Open Days is a summit where we can meet up, 
 exchange ideas, and plan for the future of open source trip planning.
 
+The event is free to attend.
+
 ## Who will be there
 OTP Open Days are open to all. The more you’re involved in using or evaluating OTP, the more you’ll get out of this event. But if Valencia is accessible to you and you’re interested in transportation customer information, consider joining us–or watch the live-streamed plenary session from wherever you happen to be!
 
@@ -24,7 +26,6 @@ We’ll also have a social event the evening of September 7. Join us for dinner,
 
 (OK–we’ll probably talk about trip planning a little bit at dinner, too…)
 
-
 ## Preliminary schedule 
 
 - Plenary: OTP update and roadmap (business track)
@@ -38,8 +39,7 @@ We’ll also have a social event the evening of September 7. Join us for dinner,
 
 ## Signup
 
-We will soon start collecting signups to be sure to check this page in the future!
-
+[Please add yourself to the signup form if you want to attend.](https://docs.google.com/forms/d/e/1FAIpQLSdE3bW8CnwOd4YM-p5Ewu__lbjzqYcYX59w70Tjzmq0kIEz7w/viewform).
 
 # Partners
 
