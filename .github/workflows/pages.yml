@@ -13,3 +13,5 @@ jobs:
         run: |
           sudo apt-get install hugo
           hugo
+          git checkout gh-pages
+          mv public docs
