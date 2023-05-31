@@ -39,7 +39,7 @@ We’ll also have a social event the evening of September 7. Join us for dinner,
 
 ## Signup
 
-[Please add yourself to the signup form if you want to attend.](https://docs.google.com/forms/d/e/1FAIpQLSdE3bW8CnwOd4YM-p5Ewu__lbjzqYcYX59w70Tjzmq0kIEz7w/viewform).
+[Please add yourself to the signup form if you want to attend.](https://docs.google.com/forms/d/e/1FAIpQLSdE3bW8CnwOd4YM-p5Ewu__lbjzqYcYX59w70Tjzmq0kIEz7w/viewform)
 
 # Partners
 
