@@ -8,10 +8,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3.3.0
+        with:
+          fetch-depth: 0
 
       - name: Install hugo and build site
         run: |
-          sudo apt-get install hugo
+          sudo apt-get install hugo -y
           hugo
           git checkout gh-pages
           mv public docs
+          git add docs
+          git commit "Update website"
