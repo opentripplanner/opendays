@@ -19,3 +19,4 @@ jobs:
           mv public docs
           git add docs
           git commit "Update website"
+          git push
