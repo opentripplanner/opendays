@@ -16,7 +16,7 @@ jobs:
           git config --global user.name 'OTP Bot'
           git config --global user.email 'bot@opentripplanner.org'
           sudo apt-get install hugo -y
-          hugo
+          hugo -v
           git checkout gh-pages
           mv public docs
           git add docs
