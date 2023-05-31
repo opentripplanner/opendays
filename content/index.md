@@ -11,10 +11,14 @@ exchange ideas, and plan for the future of open source trip planning.
 The event is free to attend.
 
 ## Who will be there
-OTP Open Days are open to all. The more you’re involved in using or evaluating OTP, the more you’ll get out of this event. But if Valencia is accessible to you and you’re interested in transportation customer information, consider joining us–or watch the live-streamed plenary session from wherever you happen to be!
+OTP Open Days are open to all. The more you’re involved in using or evaluating OTP, the more you’ll get out of this event. 
+But if Valencia is accessible to you and you’re interested in transportation customer information, consider joining us.
+
+We are also planning to live stream a plenary session - check back on this website for final confirmation.
 
 ## What the program will look like
-This two day conference will include at least 12 different small group sessions aimed at OTP developers and product owners. We’ll also have at least one plenary session including an overview of the latest updates to OTP and the roadmap for the next year.
+This two day conference will include at least 12 different small group sessions aimed at OTP developers and product owners. 
+We’ll also have at least one plenary session including an overview of the latest updates to OTP and the roadmap for the next year.
 
 ## Where will we meet
 OTP Open Days 2023 will be hosted by the OTP Project Leadership Committee at the **Universitat Politècnica de València (UPV)**.
