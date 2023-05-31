@@ -18,6 +18,7 @@ jobs:
           sudo apt-get install hugo -y
           hugo -v
           git checkout gh-pages
+          rm -rf docs
           mv public docs
           git add docs
           git commit -am "Update website"
