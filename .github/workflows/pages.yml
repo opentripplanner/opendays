@@ -13,6 +13,8 @@ jobs:
 
       - name: Install hugo and build site
         run: |
+          git config --global user.name 'OTP Bot'
+          git config --global user.email 'bot@opentripplanner.org'
           sudo apt-get install hugo -y
           hugo
           git checkout gh-pages
