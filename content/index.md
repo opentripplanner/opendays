@@ -53,3 +53,5 @@ We’ll also have a social event the evening of September 7. Join us for dinner,
 ![Mobilitydata logo](mobility-data.png)
 ![Skanetrafiken logo](skanetrafiken.png)
 ![GVsig logo](gvsig.png)
+![Waltti logo](waltti.png)
+![Fintraffic logo](fintraffic.png)
