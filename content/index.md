@@ -47,6 +47,7 @@ We’ll also have a social event the evening of September 7. Join us for dinner,
 
 # Partners
 
+![UPV logo](ETSIGCT-UPV.png)
 ![Entur logo](entur.png)
 ![HSL logo](hsl.png)
 ![WSDOT logo](wsdot.png)
