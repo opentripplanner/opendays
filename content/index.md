@@ -32,6 +32,10 @@ We’ll also have a social event the evening of September 7. Join us for dinner,
 
 ## Preliminary schedule 
 
+Can be found on our schedule [Trello](https://trello.com/b/v2RsrrNm/otp-open-days-2023-valencia) board.
+
+## Selected topics
+
 - Plenary: OTP update and roadmap (business track)
 - Discussion: Flex routing (business)
 - Presentation: OTP APIs and their future (technical, business)
