@@ -34,7 +34,7 @@ We’ll also have a social event the evening of September 7 or 8. Join us for di
 
 ## Preliminary schedule 
 
-We're in the process of detailing session descriptions on [this Trello board](https://trello.com/b/v2RsrrNm/otp-open-days-2023-valencia?utm_source=eval-email&utm_medium=email&utm_campaign=board-invite), with more details on session details coming soon. Planned topics include:
+We're in the process of detailing session descriptions on [this Trello board](https://trello.com/b/v2RsrrNm/otp-open-days-2023-valencia), with more details on session details coming soon. Planned topics include:
 
 - OTP roadmap
 - Flex routing
