@@ -17,29 +17,33 @@ But if Valencia is accessible to you and you’re interested in transportation c
 We are also planning to live stream a plenary session - check back on this website for final confirmation.
 
 ## What the program will look like
-This two day conference will include at least 12 different small group sessions aimed at OTP developers and product owners. 
-We’ll also have at least one plenary session including an overview of the latest updates to OTP and the roadmap for the next year.
+This two day conference will include at least 8 different small group sessions aimed at OTP developers and product owners. 
+We’ll also have one plenary session including an overview of the latest updates to OTP and the roadmap for the next year.
 
 ## Where will we meet
 OTP Open Days 2023 will be hosted by the OTP Project Leadership Committee at the **Universitat Politècnica de València (UPV)**.
 
+The event will take place in building 7i, which can be found on [this interactive map](https://www.upv.es/plano/plano-2d-en.html). The building is closest to the Line 4 "Tarongers" tram station.
+
 ## Social events and MobilityData European workshop
 Our partner MobilityData–the global steward of GTFS and GBFS–is co-hosting their European workshop with us at UPV! Their workshop will take place on September 5 and 6. Come for both!
 
-We’ll also have a social event the evening of September 7. Join us for dinner, drinks, and discussion about everything we do besides trip planning technology! 
+We’ll also have a social event the evening of September 7 or 8. Join us for dinner, drinks, and discussion about everything we do besides trip planning technology! 
 
 (OK–we’ll probably talk about trip planning a little bit at dinner, too…)
 
 ## Preliminary schedule 
 
-- Plenary: OTP update and roadmap (business track)
-- Discussion: Flex routing (business)
-- Presentation: OTP APIs and their future (technical, business)
-- Working session: Support for Siri 2.1 (technical)
-- Discussion: Developing an OTP business plan (business)
-- Presentation: OTP’s contribution process (technical)
-- Discussion: OTP’s eco system and associated projects (business)
-- Presentation: Performance improvements for large networks (technical)
+We're in the process of detailing session descriptions on [this Trello board](https://trello.com/b/v2RsrrNm/otp-open-days-2023-valencia?utm_source=eval-email&utm_medium=email&utm_campaign=board-invite), with more details on session details coming soon. Planned topics include:
+
+- OTP roadmap
+- Flex routing
+- OTP APIs and their future
+- Support for Siri 2.1
+- Developing an OTP business plan
+- OTP’s contribution process
+- OTP’s ecosystem and associated projects
+- Performance improvements for large networks
 
 ## Signup
 
