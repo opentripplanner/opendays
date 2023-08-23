@@ -51,6 +51,7 @@ We're in the process of detailing session descriptions on [this Trello board](ht
 
 # Partners
 
+![UPV logo](ETSIGCT-UPV.png)
 ![Entur logo](entur.png)
 ![HSL logo](hsl.png)
 ![WSDOT logo](wsdot.png)
